@@ -1,0 +1,3 @@
+# Case study only: no implementation, credentials or runtime state.
+.env
+*.log
